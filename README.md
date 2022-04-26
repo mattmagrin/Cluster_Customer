@@ -25,7 +25,7 @@ If you would wish, you may interact with the public view of the dashboard i desi
 **1. Data Description & Data Filtering: :** Exploring the raw data, formatting it into a usable data frame and removing inconsistencies found in data
 
 
-**2. Feature Engineering & EAD :** Trying to generate features based on business knowledge. Exploring data to find correlations and verify data distributions. Also testing several embedding methodologies
+**2. Feature Engineering & EDA :** Trying to generate features based on business knowledge. Exploring data to find correlations and verify data distributions. Also testing several embedding methodologies
 
 
 **3. Data Preparation & Feature Selection:** Applying feature rescaling and encodings. Selecting most important features.
