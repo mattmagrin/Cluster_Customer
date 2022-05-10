@@ -90,9 +90,9 @@ An image of the embedding space and clusters found in the Tree Embedded and UMAP
 - Be very careful using manifold learning specially UMAP, any small changes to the data may result in a significant change in the results obtained.
 
 ## Next Steps to Improve
+- Attempt to generate more insights using basket analysis methodologies.
 - Implement a more complete CI/CD solution to automatically pull changes from GitHub into the EC2 instance (Github Actions, Jenkins, or Airflow).
 - Apply a moving average such as ARIMA or SARIMA model to forecast each cluster revenue.
-- Attempt to generate more insights using basket analysis methodologies.
 - Develop and deploy another more interactive dashboard or app to explore clusters.
 
 ### References
