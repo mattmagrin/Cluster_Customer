@@ -22,19 +22,19 @@ If you would wish, you may interact with the public view of the dashboard i desi
 ## How was this solution developed? ✔
 ### Each step has a detailed notebook with explanations, just click on the links below
 
-**1. Data Description & Data Filtering: :** Exploring the raw data, formatting it into a usable data frame and removing inconsistencies found in data
+**[1. Data Description & Data Filtering: :](https://github.com/mattmagrin/Cluster_Customer/blob/main/notebooks/1_Data_Description___Data_Filtering.ipynb)** Exploring the raw data, formatting it into a usable data frame and removing inconsistencies found in data
 
 
-**2. Feature Engineering & EDA :** Trying to generate features based on business knowledge. Exploring data to find correlations and verify data distributions. Also testing several embedding methodologies
+**[2. Feature Engineering & EDA :](https://github.com/mattmagrin/Cluster_Customer/blob/main/notebooks/2_Feature_Engineering___EDA.ipynb)** Trying to generate features based on business knowledge. Exploring data to find correlations and verify data distributions. Also testing several embedding methodologies
 
 
-**3. Data Preparation & Feature Selection:** Applying feature rescaling and encodings. Selecting most important features.
+**[3. Data Preparation & Feature Selection:](https://github.com/mattmagrin/Cluster_Customer/blob/main/notebooks/3_Data_Preparation___Feature_Selection.ipynb)** Applying feature rescaling and encodings. Selecting most important features.
 
 
-**4. Model Testing & Model Training :** Testing several clustering algorithms and evaluating their performance. Finding best hyperparameters for the selected model.
+**[4. Model Testing & Model Training :](https://github.com/mattmagrin/Cluster_Customer/blob/main/notebooks/4_Model_Testing___Training.ipynb)** Testing several clustering algorithms and evaluating their performance. Finding best hyperparameters for the selected model.
 
 
-**5. Cluster Analysis & Convert Model Performance to Business Values:** Analyzing clusters found and their silhouette.  Evaluating hypotheses about business, possible business questions, describing clusters formed, and defining simple business levers
+**[5. Cluster Analysis & Convert Model Performance to Business Values:](https://github.com/mattmagrin/Cluster_Customer/blob/main/notebooks/5_Cluster_Analysis___Model_Performance_to_Business_Values.ipynb)** Analyzing clusters found and their silhouette.  Evaluating hypotheses about business, possible business questions, describing clusters formed, and defining simple business levers
 
 
 ## Business Results
